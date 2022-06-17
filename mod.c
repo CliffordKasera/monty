@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  *  mod - the rest of the division of the second top by the top
